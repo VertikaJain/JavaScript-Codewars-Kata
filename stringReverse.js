@@ -14,3 +14,5 @@ solution = (str) => {
 
 let result = solution("qwerty");
 console.log(result);
+
+// NOTE: You need to comment either of the methods.
