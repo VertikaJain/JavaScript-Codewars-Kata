@@ -7,3 +7,5 @@ function openOrSenior(data) {
 }
 
 openOrSenior([[18, 20], [45, 2], [61, 12], [37, 6], [21, 21], [78, 9]]);
+
+// The map() methods manipulates every element of an array and returns its corresponding array as result.
