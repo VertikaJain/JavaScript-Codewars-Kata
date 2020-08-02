@@ -18,3 +18,6 @@ testArr([0, 1, 0, 1]);
 testArr([1, 1, 0, 1]);
 
 // 8 4 2 1 => 2^3,2^2,2^1,2^0
+
+// ONE STATEMENT SOLUTION:
+// const binaryArrayToNumber = arr => parseInt(arr.join(''), 2);
